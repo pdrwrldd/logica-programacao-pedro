@@ -15,6 +15,7 @@ exemplo algoritmo: escovar os dentes
 - enxaguar a escova
 
 palavras-chave da aula
+
 Algoritmo: instruções para executar ações afim de resolver um problema.
 
 Hardware: Componentes fisicos utilizados para o funcionamento do computador.
