@@ -1,3 +1,10 @@
+O que é Git? Ferramenta para salvar o historico de mudanças de um projeto.
+O que é GitHub? Ferramenta para salvar o seu projeto na internet.
+O que é um repositório? Pasta onde fica guardada os projetos/versões do git.
+O que é Commit? Ferramenta para salvar a mudança de um projeto.
+O que é Push? Enviar o seu projeto feito no computador para o GitHub.
+O que é Branch? Serve para testar codigos/coisa sem atrapalhar o projeto principal.
+O que é Pull? Baixar atualizações de um projeto do GitHub para o computador
 Definição de algoritmo: Seria uma sequencia logica de ações para resolver um problema
 entrada: informações que são processadas de inicio nos algoritmos 
 processamento: dados necessarios para o andamento de funcionamento do algoritmo
